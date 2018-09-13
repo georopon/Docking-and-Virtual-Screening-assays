@@ -1,13 +1,13 @@
 #!/bin/bash
 
 #######################################################################################
-#      –––––– This is a script for convert library ligands of sdf to pdb ––––––		  #
-# AUTOR: ROPÓN-PALACIOS G., BSc, MPhil,								                  #
-# 		 Bioinformatics, Biophysics & Systems Biology, Molecular Genetics Lab,        #
-#		 Departament of Biology & Physics, Faculty of Sciences,                       #
-#		 Universidad Nacional de San Antonio Abad del Cusco							  # 
-#        Av. La Cultura 733, Wanchaq, Cusco, Peru.									  #               
-#		 E-mail: biodano.geo@gmail.com												  #
+#      –––––– This is a script for convert library ligands of sdf to pdb ––––––	      #
+# AUTOR: ROPÓN-PALACIOS G., BSc, MSc(c),					      #
+# 		 Bioinformatics & Theoretical Biophysics – Molecular Genetics Lab,    #
+#		 Departament of Biology & Physics, Faculty of Sciences,               #
+#		 Universidad Nacional de San Antonio Abad del Cusco		      # 
+#                Av. La Cultura 733, Wanchaq, Cusco, Peru.		              #               
+#		 E-mail: biodano.geo@gmail.com					      #
 #######################################################################################
 
 # Run script usign babel module of Openbabel: 
