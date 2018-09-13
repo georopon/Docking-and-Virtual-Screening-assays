@@ -6,7 +6,7 @@
 # 		 Bioinformatics & Theoretical Biophysics – Molecular Genetics Lab,    #
 #		 Departament of Biology & Physics, Faculty of Sciences,               #
 #		 Universidad Nacional de San Antonio Abad del Cusco	              # 
-#        Av. La Cultura 733, Wanchaq, Cusco, Peru.				      #               
+#                Av. La Cultura 733, Wanchaq, Cusco, Peru.			      #               
 #		 E-mail: biodano.geo@gmail.com					      #
 #######################################################################################
 
