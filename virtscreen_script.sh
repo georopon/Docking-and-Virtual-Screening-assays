@@ -2,8 +2,8 @@
 
 #######################################################################################
 #      –––––– This is a script for run automatically to virtual screening ––––––	  #
-# AUTOR: ROPÓN-PALACIOS G., BSc, MPhil,								                  #
-# 		 Bioinformatics, Biophysics & Systems Biology, Molecular Genetics Lab,        #
+# AUTOR: ROPÓN-PALACIOS G., BSc, MSc(c),								              #
+# 		 Bioinformatics & Thereotical Biophysics – Molecular Genetics Lab,            #
 #		 Departament of Biology & Physics, Faculty of Sciences,                       #
 #		 Universidad Nacional de San Antonio Abad del Cusco							  # 
 #        Av. La Cultura 733, Wanchaq, Cusco, Peru.									  #               
