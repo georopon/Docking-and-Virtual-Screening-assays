@@ -1,2 +1,2 @@
-# Script and Meta-script for Docking and Virtual Screening assays
+# Scripts and Meta-scripts for Docking and Virtual Screening assays
 This is a repository of various scripts and meta-scripts that could be written in bash and python programming languages, which could help to run protocols involved in docking and virtual screening. Pricipally tested for use on ubuntu 16. I could be updating the repository gradually! If you have any questions or doubts, please send me an email to biodano.geo@gmail.com
