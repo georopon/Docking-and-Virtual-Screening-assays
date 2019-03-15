@@ -1,3 +1,2 @@
-# Script-for-ligand-preparation-in-Virtual-Screening
-This i a one collection of trhee scripts in bash for library ligands preparation before run virtual screening
-.This script will allow you to transform a library of compounds in sdf format to pdb format and optimize energy and geometry of the ligands, as well as running a virtual screening of multiple ligands against a single receptor. 
+# Script and Meta-script for Docking and Virtual Screening assays
+This is a repository of various scripts and meta-scripts that could be written in bash and python programming languages, which could help to run protocols involved in docking and virtual screening. Pricipally tested for use on ubuntu 16. I could be updating the repository gradually! If you have any questions or doubts, please send me an email to biodano.geo@gmail.com
